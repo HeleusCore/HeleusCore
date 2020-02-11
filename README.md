@@ -20,6 +20,8 @@ Heleus Core contains different repositories. We didn't put everything into one h
 
 ### Heleus Base
 
+https://github.com/HeleusCore/Heleus.Base
+
 This is our base library that contains all the definitions and code that is required on the server side and client side.
 
 ### Heleus Node
