@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#git clone https://github.com/HeleusCore/Heleus.Base.git
+git clone https://github.com/HeleusCore/Heleus.Services.git
+#git clone https://github.com/HeleusCore/Heleus.Node.git
+#git clone https://github.com/HeleusCore/Heleus.PushService.git
+
+git clone https://github.com/HeleusCore/Heleus.Website.git
+
+git clone https://github.com/HeleusCore/Heleus.AppBase.git
+git clone https://github.com/HeleusCore/Heleus.HeleusApp.git
+git clone https://github.com/HeleusCore/Heleus.Message.git
+git clone https://github.com/HeleusCore/Heleus.Note.git
+git clone https://github.com/HeleusCore/Heleus.Status.git
+git clone https://github.com/HeleusCore/Heleus.Todo.git
+git clone https://github.com/HeleusCore/Heleus.Verify.git
