@@ -24,9 +24,13 @@ This is our base library that contains all the definitions and code that is requ
 
 ### Heleus Node
 
+https://github.com/HeleusCore/Heleus.Node
+
 The Heleus Core server code.
 
 ### Heleus Services
+
+https://github.com/HeleusCore/Heleus.Services
 
 This repository contains the server side implementation of our apps and services.
 
