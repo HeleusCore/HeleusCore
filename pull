@@ -1,5 +1,7 @@
 #!/bin/bash
 
+git pull origin master
+
 #git -C Heleus.Base pull origin master
 git -C Heleus.Services pull origin master
 #git -C Heleus.Node pull origin master
