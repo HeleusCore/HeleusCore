@@ -54,37 +54,37 @@ The app base repository contains all the shared code for our apps. Most of the a
 
 https://github.com/HeleusCore/Heleus.HeleusApp
 
-Manage your Heleus Core Account, more info and download: https://heleuscore.com/heleus
+Manage your Heleus Core Account, more info and free download: https://heleuscore.com/heleus
 
 ### Heleus Status
 
 https://github.com/HeleusCore/Heleus.Status
 
-Always up to date, more info and download: https://heleuscore.com/status
+Always up to date, more info and free download: https://heleuscore.com/status
 
 ### Heleus Message
 
 https://github.com/HeleusCore/Heleus.Message
 
-Manage your Heleus Core Account, more info and download: https://heleuscore.com/message
+The secure text messenger, more info and free download: https://heleuscore.com/message
 
 ### Heleus Todo
 
 https://github.com/HeleusCore/Heleus.Todo
 
-Your collaborative task manager, more info and download: https://heleuscore.com/todo
+Your collaborative task manager, more info and free download: https://heleuscore.com/todo
 
 ### Heleus Verfiy
 
 https://github.com/HeleusCore/Heleus.Verify
 
-Powerful data verification, more info and download: https://heleuscore.com/verfiy
+Powerful data verification, more info and free download: https://heleuscore.com/verfiy
 
 ### Heleus Note
 
 https://github.com/HeleusCore/Heleus.Note
 
-Synchronize notes across all your devices, more info and download: https://heleuscore.com/note
+Synchronize notes across all your devices, more info and free download: https://heleuscore.com/note
 
 ## Heleus Website
 

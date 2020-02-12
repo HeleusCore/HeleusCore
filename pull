@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#git -C Heleus.Base pull origin master
+git -C Heleus.Services pull origin master
+#git -C Heleus.Node pull origin master
+#git -C Heleus.PushService pull origin master
+
+git -C Heleus.Website pull origin master
+
+git -C Heleus.AppBase pull origin master
+git -C Heleus.HeleusApp pull origin master
+git -C Heleus.Message pull origin master
+git -C Heleus.Note pull origin master
+git -C Heleus.Status pull origin master
+git -C Heleus.Todo pull origin master
+git -C Heleus.Verify pull origin master
