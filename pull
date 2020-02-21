@@ -2,9 +2,9 @@
 
 git pull origin master
 
-#git -C Heleus.Base pull origin master
+git -C Heleus.Base pull origin master
 git -C Heleus.Services pull origin master
-#git -C Heleus.Node pull origin master
+git -C Heleus.Node pull origin master
 #git -C Heleus.PushService pull origin master
 
 git -C Heleus.Website pull origin master

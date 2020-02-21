@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#git clone https://github.com/HeleusCore/Heleus.Base.git
+git clone https://github.com/HeleusCore/Heleus.Base.git
 git clone https://github.com/HeleusCore/Heleus.Services.git
-#git clone https://github.com/HeleusCore/Heleus.Node.git
+git clone https://github.com/HeleusCore/Heleus.Node.git
 #git clone https://github.com/HeleusCore/Heleus.PushService.git
 
 git clone https://github.com/HeleusCore/Heleus.Website.git
